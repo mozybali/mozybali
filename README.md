@@ -67,7 +67,7 @@
 - 🛠️ **Project 2 – React + NestJS + PostgreSQL Full Stack Web **  
   Oyun, hesap ve key satış sitesi.
 
-```md
+``md
 - 🔍 [ml-classification-pipeline](https://github.com/mozybali/MRI_Classification)
 - 🛠️ [nestjs-ml-backend](https://github.com/mozybali/Full_Stack_Web_Project)
 
