@@ -24,36 +24,30 @@
 - 🎮 Boş zamanlarımda oyun oynuyorum ve yeni teknolojilerle uğraşıyorum  
 
 ---
+### 🚀 Kullandığım Teknolojiler
 
-### 🧩 Teknik Yetenekler
-
-#### 💡 Backend & Programlama
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" /></td>
-  </tr>
-</table>
-
-#### 🤖 AI / ML / DL
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="40" alt="Keras" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" /></td>
-  </tr>
-</table>
-
-#### 🗄️ Veri & Diğer
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="MS SQL Server" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" /></td>
-  </tr>
-</table>
+<p align="left">
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/java/java-original.svg" height="40" alt="Java" />
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/python/python-original.svg" height="40" alt="Python" />
+  <!-- NestJS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
+  <!-- scikit-learn -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn" />
+  <!-- Keras -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/keras/keras-original.svg" height="40" alt="Keras" />
+  <!-- PyTorch -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
+  <!-- TensorFlow -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <!-- MS SQL Server -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="MS SQL Server" />
+  <!-- MATLAB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" />
+</p>
 
 ---
 
