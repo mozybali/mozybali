@@ -1,10 +1,12 @@
 <br clear="both">
 
 <div align="center">
-  <img height="180" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGt6OHNycjVveG1rcWYxbGJ1amxyeWdzeXphZWhhaTk3NmJtZnhoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kd9BlRovbPOykLBMqX/giphy.gif" />
+  <img height="170" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGt6OHNycjVveG1rcWYxbGJ1amxyeWdzeXphZWhhaTk3NmJtZnhoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kd9BlRovbPOykLBMqX/giphy.gif" />
 </div>
+
 ###
-<h1 align="center">👋 Merhaba, ben Ozan (@mozybali)</h1>
+
+<h1 align="center">👋 Merhaba, ben Ozan </h1>
 <h3 align="center">AI Developer • Machine Learning & Deep Learning</h3>
 
 <p align="center">
