@@ -35,7 +35,6 @@
 [![Ozan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mozybali&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
 ### 🐍 GitHub Contribution Snake
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/mozybali/mozybali/output/github-contribution-snake.svg#gh-light-mode-only)
