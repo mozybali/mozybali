@@ -3,9 +3,7 @@
 <div align="center">
   <img height="180" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGt6OHNycjVveG1rcWYxbGJ1amxyeWdzeXphZWhhaTk3NmJtZnhoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kd9BlRovbPOykLBMqX/giphy.gif" />
 </div>
-
 ###
-
 <h1 align="center">👋 Merhaba, ben Ozan (@mozybali)</h1>
 <h3 align="center">AI Developer • Machine Learning & Deep Learning</h3>
 
@@ -13,9 +11,7 @@
   <!-- Profil görüntülenme, takipçi, yıldız vs. istersen kullan -->
   <img src="https://komarev.com/ghpvc/?username=mozybali&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
 ---
-
 ### 🧠 Hakkımda
 
 - 💻 AI Developer olarak **ML & DL** projeleri geliştiriyorum  
@@ -43,8 +39,6 @@
 **Proje Bağlantıları
 - 🔍 [ML Classification](https://github.com/mozybali/MRI_Classification)
 - 🛠️ [Full Stack Web Projesi](https://github.com/mozybali/Full_Stack_Web_Project)
-
-### 🐍 GitHub Contribution Snake
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/mozybali/mozybali/output/github-contribution-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/mozybali/mozybali/output/github-contribution-snake-dark.svg#gh-dark-mode-only)
