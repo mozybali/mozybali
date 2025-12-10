@@ -2,11 +2,14 @@ name: generate contribution snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # her gün gece bir kez çalışsın
-  workflow_dispatch:       # istersem Actions sekmesinden elle de tetikleyebileyim
+    - cron: "0 0 * * *"   # her gün gece çalışsın
+  workflow_dispatch:       # Actions sekmesinden elle tetiklemek için
   push:
     branches:
-      - main
+      - main               # repo'nun default branch'i "master" ise burayı master yap
+
+permissions:
+  contents: write          # output branch'ine push için gerekli
 
 jobs:
   build:
