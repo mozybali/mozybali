@@ -59,17 +59,15 @@
 
 ### ⭐ Öne Çıkan Projeler
 
-<!-- Buradaki repo isimlerini kendi projelerinle değiştir -->
-
-- 🔍 **Project 1 – ML Classification **  
+- 🔍 **Projec 1 – ML Classification **  
   Çok adımlı bir ML pipeline’ı: veri temizleme, feature engineering, model seçimi ve değerlendirme.
 
-- 🛠️ **Project 2 – React + NestJS + PostgreSQL Full Stack Web **  
+- 🛠️ **Projec 2 – React + NestJS + PostgreSQL Full Stack Web **  
   Oyun, hesap ve key satış sitesi.
 
-``md
-- 🔍 [ml-classification-pipeline](https://github.com/mozybali/MRI_Classification)
-- 🛠️ [nestjs-ml-backend](https://github.com/mozybali/Full_Stack_Web_Project)
+**Proje Bağlantıları
+- 🔍 [ML Classification](https://github.com/mozybali/MRI_Classification)
+- 🛠️ [Full Stack Web Projesi](https://github.com/mozybali/Full_Stack_Web_Project)
 
 ### 🐍 GitHub Contribution Snake
 
