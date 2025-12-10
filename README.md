@@ -1,8 +1,12 @@
+<br clear="both">
+
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGt6OHNycjVveG1rcWYxbGJ1amxyeWdzeXphZWhhaTk3NmJtZnhoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kd9BlRovbPOykLBMqX/giphy.gif"  />
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGt6OHNycjVveG1rcWYxbGJ1amxyeWdzeXphZWhhaTk3NmJtZnhoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kd9BlRovbPOykLBMqX/giphy.gif"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
@@ -11,6 +15,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h1 align="center">hey there 👋</h1>
 
