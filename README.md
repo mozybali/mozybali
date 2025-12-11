@@ -22,7 +22,7 @@
 - 🎮 Boş zamanlarımda oyun oynuyorum ve yeni teknolojilerle uğraşıyorum  
 
 ---
-### 🧩 Profilimde Kullandığım Diller / Teknolojiler
+### 🧩 Kullandığım Diller / Teknolojiler
 
 | Java | Python | NestJS | scikit-learn | Keras | PyTorch | TensorFlow | PostgreSQL | MS SQL Server | MATLAB |
 | ---- | ------ | ------ | ------------ | ----- | ------- | ---------- | ---------- | ------------- | ------ |
